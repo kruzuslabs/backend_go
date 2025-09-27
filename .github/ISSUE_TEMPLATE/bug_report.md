@@ -1,38 +1,36 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: Bug Report
+about: Found something broken? Tell us here.
 title: ''
-labels: ''
+labels: bug
 assignees: ''
-
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**What’s the bug?**  
+Briefly explain what’s wrong.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**How to reproduce**  
+Steps so we can see it too:  
+1. …  
+2. …  
+3. …  
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**What should happen**  
+Describe the correct behavior.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Screenshots or logs**  
+Optional, but helpful.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**Your setup**  
+- OS: [e.g. Windows 11, macOS 14]  
+- Browser/App: [e.g. Chrome 122, Safari 17]  
+- Version: [e.g. 1.2.3]  
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+**Mobile (if relevant)**  
+- Device: [e.g. iPhone 13]  
+- OS: [e.g. iOS 17]  
+- Browser/App version: [e.g. 1.2.3]  
 
-**Additional context**
-Add any other context about the problem here.
+**Anything else?**  
+Add extra details if needed.
+```
