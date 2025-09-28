@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 
-	"github.com/gin-gonic/gin" //added this as u can see
+	"github.com/gin-gonic/gin"
 )
 
 func main() {
@@ -21,5 +21,4 @@ func main() {
 	// Start server on port 8080 (default)
 	// Server will listen on 0.0.0.0:8080 (localhost:8080 on Windows)
 	r.Run()
-
 }
