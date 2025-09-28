@@ -3,12 +3,16 @@ package main
 import (
 	"net/http"
 
+	"backend/internal/api"
+
 	"github.com/gin-gonic/gin"
 )
 
 func main() {
 	// Create a Gin router with default middleware (logger and recovery)
 	r := gin.Default()
+
+	api.InitializeRoutes(r)
 
 	// Define a simple GET endpoint
 	r.GET("/ping", func(c *gin.Context) {
