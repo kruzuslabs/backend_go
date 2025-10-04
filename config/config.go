@@ -1,3 +1,6 @@
 package config
 
-type Config struct{}
+type Config struct {
+	PG    PostgresConfig
+	REDIS RedisConfig
+}
